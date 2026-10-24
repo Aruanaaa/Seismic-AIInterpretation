@@ -36,7 +36,7 @@ The project is being developed step by step. At the current stage, the main focu
 
 **Supervisor:** Turarova Marzhan Kabdikalievna
 
-Both team members work in the same GitLab repository and use their own accounts so that individual contributions can be traced through commits and merge requests.
+Both team members work in the same GitHub repository and use their own accounts so that individual contributions can be traced through commits and merge requests.
 
 ---
 
@@ -151,7 +151,7 @@ The current technology stack includes:
 | ML task | Semantic segmentation |
 | Backend | FastAPI |
 | API format | REST / JSON |
-| Version control | GitLab |
+| Version control | GitHub |
 | Project management | YouTrack |
 | Dataset | Netherlands F3 |
 
@@ -222,7 +222,7 @@ The exact implementation and experiment schedule will be refined after the curre
 
 ## Project Management
 
-Project work is tracked in **YouTrack** and linked to GitLab development where applicable.
+Project work is tracked in **YouTrack** and linked to GitHub development where applicable.
 
 For meaningful tasks:
 
